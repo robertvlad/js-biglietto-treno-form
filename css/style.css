@@ -3,3 +3,27 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: #b91450;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.white_box{
+    background-color: #ffffff;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.bg_grey{
+    background-color: #cccccc;
+}
+
+.grey_box{
+    background-color: #808080;
+    padding: 15px;
+}
